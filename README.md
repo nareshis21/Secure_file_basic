@@ -73,5 +73,3 @@ The Secure File Manager is a command-line utility for encrypting and decrypting 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
-
-Feel free to customize this README based on the specific details of your project, such as author information, additional sections, or specific usage instructions.
